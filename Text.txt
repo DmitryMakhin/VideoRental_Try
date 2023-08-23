@@ -1,0 +1,6 @@
+Клиент Dmitry взял в аренду: 
+	Friday 13th на 10 за 1
+	Meeting with parents на 7 за 2
+	Titanic на 5 за 3
+Общая сумма долга составляет: 39
+
